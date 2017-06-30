@@ -22,13 +22,13 @@ the_avengers = media.Movie("The Avengers", "http://orig15.deviantart.net/f2e7/f/
 guardians_of_the_galaxy = media.Movie("Guardians of the Galaxy", "http://agentpalmer.com/wp-content/uploads/2014/08/Official-Guardians-of-the-Galaxy-Movie-Poster.jpg",  # NOQA
                                    "https://www.youtube.com/watch?v=d96cjJhvlMA")
 
-jurassic_Park = media.Movie("Jurassic Park", "http://moviereviews.s3.amazonaws.com/2016/04/11/17/47/51/994/oW484gwIHBk7haWwIunUuySqPfx.jpg",  # NOQA
+jurassic_park = media.Movie("Jurassic Park", "http://moviereviews.s3.amazonaws.com/2016/04/11/17/47/51/994/oW484gwIHBk7haWwIunUuySqPfx.jpg",  # NOQA
                            "https://www.youtube.com/watch?v=_IesovZQR4g")
 
 the_greatest_game_ever_played = media.Movie("The Greatest Game Ever Played", "https://i.jeded.com/i/the-greatest-game-ever-played.18712.jpg",  # NOQA
                                         "https://www.youtube.com/watch?v=8xK9yXKldrk")
 
 movies = [thor_ragnarok, spider_man, justice_league, wonder_woman, iron_man, the_avengers, guardians_of_the_galaxy,
-          jurassic_Park, the_greatest_game_ever_played]  # list containing movies
+          jurassic_park, the_greatest_game_ever_played]  # list containing movies
 
 fresh_tomatoes.open_movies_page(movies)  # function to render web page containing data from a list of movies

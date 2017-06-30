@@ -20,4 +20,4 @@ PEP 8 coding standard has been followed. (Some extra long urls exceeding 80 char
 
 #### Note
 The background color of the body of the web page has been customized and is different from the given default value.
-The python file **fresh_tomatoes.py** has been provided by Udacity as starter code on which to build this project. My contributions are in the other two python files.
+The python file **fresh_tomatoes.py has been provided by Udacity** as starter code on which to build this project. My contributions are in the other two python files.

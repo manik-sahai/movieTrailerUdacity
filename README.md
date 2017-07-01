@@ -16,7 +16,7 @@ Follow the following steps to run the website
 4. Once web page opens in a browser, click on the poster of any movie displayed there to view its trailer.
 
 #### Coding Convention
-PEP 8 coding standard has been followed. (Some extra long urls exceeding 80 characters have been marked with #NOQA)
+PEP 8 coding standard has been followed. (Some extra long urls exceeding 79 characters have been marked with #NOQA)
 
 #### Note
 The background color of the body of the web page has been customized and is different from the given default value.

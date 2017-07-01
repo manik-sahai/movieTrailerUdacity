@@ -1,6 +1,5 @@
 import media  # contains the movie class which has characteristics of a movie
 import fresh_tomatoes  # contains the layout of the web page and the
-
 # function to render the page
 
 # instances of class movie to populate the web page with actual movie data

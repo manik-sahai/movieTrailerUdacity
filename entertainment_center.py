@@ -3,14 +3,14 @@ import fresh_tomatoes  # contains the layout of the web page and the
 # function to render the page
 
 # instances of class movie to populate the web page with actual movie data
-thor_ragnarok = media.Movie("Thor: Ragnarock", "https://goo.gl/9vyyef",
+thor_ragnarok = media.Movie("Thor: Ragnarock", "https://bit.ly/2wRgEGx",
                             "https://www.youtube.com/watch?v=v7MGUNV8MxU")
 
 spider_man = media.Movie("Spiderman:Homecoming",
                          "https://i.imgbox.com/574OovOo.jpg",
                          "https://www.youtube.com/watch?v=xEvV3OsE2WM")
 
-justice_league = media.Movie("Justice League", "https://goo.gl/A5LbyF",
+justice_league = media.Movie("Justice League", "https://bit.ly/2HxaMsh",
                              "https://www.youtube.com/watch?v=3cxixDgHUYw")
 
 wonder_woman = media.Movie("Wonder Woman", "https://goo.gl/3E9Fam",
